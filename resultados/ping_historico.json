@@ -1,0 +1,362 @@
+[
+  {
+    "online": true,
+    "latencia": 0.227,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.227 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.203 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.253 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2080ms\nrtt min/avg/max/mdev = 0.203/0.227/0.253/0.020 ms\n",
+    "duracao": 2.085364580154419,
+    "timestamp": "2025-03-20 15:25:50",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.198,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.184 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.220 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.190 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2025ms\nrtt min/avg/max/mdev = 0.184/0.198/0.220/0.015 ms\n",
+    "duracao": 2.029169797897339,
+    "timestamp": "2025-03-20 16:11:18",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.185,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.186 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.176 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.194 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2049ms\nrtt min/avg/max/mdev = 0.176/0.185/0.194/0.007 ms\n",
+    "duracao": 2.0531814098358154,
+    "timestamp": "2025-03-20 16:11:19",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.215,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.199 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.241 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.206 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2075ms\nrtt min/avg/max/mdev = 0.199/0.215/0.241/0.018 ms\n",
+    "duracao": 2.0798251628875732,
+    "timestamp": "2025-03-20 17:25:09",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.217,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.216 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.236 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.201 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2055ms\nrtt min/avg/max/mdev = 0.201/0.217/0.236/0.014 ms\n",
+    "duracao": 2.0595080852508545,
+    "timestamp": "2025-03-20 19:35:56",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.209,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.199 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.209 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.220 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2044ms\nrtt min/avg/max/mdev = 0.199/0.209/0.220/0.008 ms\n",
+    "duracao": 2.0496113300323486,
+    "timestamp": "2025-03-21 19:05:16",
+    "raspberry_id": 1
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "PING 192.168.1.101 (192.168.1.101) 56(84) bytes of data.\nFrom 192.168.1.157 icmp_seq=1 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=2 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=3 Destination Host Unreachable\n\n--- 192.168.1.101 ping statistics ---\n3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2065ms\npipe 3\n",
+    "duracao": 3.095386266708374,
+    "timestamp": "2025-03-21 19:06:17",
+    "raspberry_id": 2
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "PING 192.168.1.102 (192.168.1.102) 56(84) bytes of data.\nFrom 192.168.1.157 icmp_seq=1 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=2 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=3 Destination Host Unreachable\n\n--- 192.168.1.102 ping statistics ---\n3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2074ms\npipe 3\n",
+    "duracao": 3.103095293045044,
+    "timestamp": "2025-03-21 19:06:18",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.204,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.199 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.213 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.201 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2049ms\nrtt min/avg/max/mdev = 0.199/0.204/0.213/0.006 ms\n",
+    "duracao": 2.053560495376587,
+    "timestamp": "2025-03-23 08:35:26",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.207,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.197 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.210 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.214 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2076ms\nrtt min/avg/max/mdev = 0.197/0.207/0.214/0.007 ms\n",
+    "duracao": 2.082773208618164,
+    "timestamp": "2025-03-25 11:34:03",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.191,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.200 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.195 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.179 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2077ms\nrtt min/avg/max/mdev = 0.179/0.191/0.200/0.009 ms\n",
+    "duracao": 2.0817580223083496,
+    "timestamp": "2025-03-25 11:40:31",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.218,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.214 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.229 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.213 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2037ms\nrtt min/avg/max/mdev = 0.213/0.218/0.229/0.007 ms\n",
+    "duracao": 2.0409090518951416,
+    "timestamp": "2025-03-25 11:40:34",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.203,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.187 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.191 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.232 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2049ms\nrtt min/avg/max/mdev = 0.187/0.203/0.232/0.020 ms\n",
+    "duracao": 2.054326057434082,
+    "timestamp": "2025-03-25 12:29:01",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.217,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.217 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.219 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.216 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2052ms\nrtt min/avg/max/mdev = 0.216/0.217/0.219/0.001 ms\n",
+    "duracao": 2.0570318698883057,
+    "timestamp": "2025-03-25 13:45:47",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.234,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.252 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.243 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.207 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2054ms\nrtt min/avg/max/mdev = 0.207/0.234/0.252/0.019 ms\n",
+    "duracao": 2.0612311363220215,
+    "timestamp": "2025-03-26 12:08:24",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.184,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.182 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.182 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.189 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2041ms\nrtt min/avg/max/mdev = 0.182/0.184/0.189/0.003 ms\n",
+    "duracao": 2.0458977222442627,
+    "timestamp": "2025-03-26 12:08:30",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.193,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.215 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.179 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.185 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2077ms\nrtt min/avg/max/mdev = 0.179/0.193/0.215/0.015 ms\n",
+    "duracao": 2.0832607746124268,
+    "timestamp": "2025-03-26 12:08:36",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.197,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.210 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.202 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.180 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2044ms\nrtt min/avg/max/mdev = 0.180/0.197/0.210/0.012 ms\n",
+    "duracao": 2.0501952171325684,
+    "timestamp": "2025-03-26 12:22:55",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.22,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.233 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.209 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.220 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2053ms\nrtt min/avg/max/mdev = 0.209/0.220/0.233/0.009 ms\n",
+    "duracao": 2.058650255203247,
+    "timestamp": "2025-04-02 12:16:21",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.209,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.211 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.204 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.213 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2043ms\nrtt min/avg/max/mdev = 0.204/0.209/0.213/0.003 ms\n",
+    "duracao": 2.047844409942627,
+    "timestamp": "2025-04-02 12:16:26",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.195,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.186 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.191 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.208 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2040ms\nrtt min/avg/max/mdev = 0.186/0.195/0.208/0.009 ms\n",
+    "duracao": 2.044992446899414,
+    "timestamp": "2025-04-02 12:16:29",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.217,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.213 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.210 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.229 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2045ms\nrtt min/avg/max/mdev = 0.210/0.217/0.229/0.008 ms\n",
+    "duracao": 2.051776647567749,
+    "timestamp": "2025-04-02 18:58:29",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.215,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.208 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.211 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.226 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2086ms\nrtt min/avg/max/mdev = 0.208/0.215/0.226/0.007 ms\n",
+    "duracao": 2.09196138381958,
+    "timestamp": "2025-04-02 18:58:34",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.209,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.203 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.221 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.204 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2076ms\nrtt min/avg/max/mdev = 0.203/0.209/0.221/0.008 ms\n",
+    "duracao": 2.081768274307251,
+    "timestamp": "2025-04-02 18:58:40",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.212,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.205 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.217 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.216 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2074ms\nrtt min/avg/max/mdev = 0.205/0.212/0.217/0.005 ms\n",
+    "duracao": 2.080233335494995,
+    "timestamp": "2025-04-05 08:21:41",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.195,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.184 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.204 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.198 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2030ms\nrtt min/avg/max/mdev = 0.184/0.195/0.204/0.008 ms\n",
+    "duracao": 2.0359461307525635,
+    "timestamp": "2025-04-05 08:21:47",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.191,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.203 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.185 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.186 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2027ms\nrtt min/avg/max/mdev = 0.185/0.191/0.203/0.008 ms\n",
+    "duracao": 2.0319998264312744,
+    "timestamp": "2025-04-05 08:21:50",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.234,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.215 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.250 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.238 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2074ms\nrtt min/avg/max/mdev = 0.215/0.234/0.250/0.014 ms\n",
+    "duracao": 2.0792551040649414,
+    "timestamp": "2025-04-12 11:03:17",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.221,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.218 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.220 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.227 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2041ms\nrtt min/avg/max/mdev = 0.218/0.221/0.227/0.003 ms\n",
+    "duracao": 2.047105312347412,
+    "timestamp": "2025-04-12 11:03:23",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.215,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.213 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.215 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.218 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2057ms\nrtt min/avg/max/mdev = 0.213/0.215/0.218/0.002 ms\n",
+    "duracao": 2.0635507106781006,
+    "timestamp": "2025-04-12 11:03:28",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.253,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.228 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.244 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.287 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2087ms\nrtt min/avg/max/mdev = 0.228/0.253/0.287/0.024 ms\n",
+    "duracao": 2.0926930904388428,
+    "timestamp": "2025-04-19 12:40:01",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.238,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.232 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.231 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.251 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2064ms\nrtt min/avg/max/mdev = 0.231/0.238/0.251/0.009 ms\n",
+    "duracao": 2.0694360733032227,
+    "timestamp": "2025-04-19 12:40:04",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.231,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.211 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.224 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.260 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2083ms\nrtt min/avg/max/mdev = 0.211/0.231/0.260/0.020 ms\n",
+    "duracao": 2.089379072189331,
+    "timestamp": "2025-04-19 12:40:08",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.23,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.217 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.230 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.244 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2072ms\nrtt min/avg/max/mdev = 0.217/0.230/0.244/0.011 ms\n",
+    "duracao": 2.0785043239593506,
+    "timestamp": "2025-05-03 13:49:52",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.238,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.234 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.229 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.253 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2051ms\nrtt min/avg/max/mdev = 0.229/0.238/0.253/0.010 ms\n",
+    "duracao": 2.056997537612915,
+    "timestamp": "2025-05-03 17:29:23",
+    "raspberry_id": 1
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "Command '['ping', '-c', '3', '192.168.1.184']' timed out after 5 seconds",
+    "duracao": 0,
+    "timestamp": "2025-05-06 20:01:17",
+    "raspberry_id": 2
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "Command '['ping', '-c', '3', '192.168.1.184']' timed out after 5 seconds",
+    "duracao": 0,
+    "timestamp": "2025-05-06 20:01:24",
+    "raspberry_id": 2
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\nFrom 192.168.1.157 icmp_seq=1 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=2 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=3 Destination Host Unreachable\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2003ms\npipe 2\n",
+    "duracao": 3.4798619747161865,
+    "timestamp": "2025-05-06 20:01:30",
+    "raspberry_id": 2
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\nFrom 192.168.1.157 icmp_seq=1 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=2 Destination Host Unreachable\nFrom 192.168.1.157 icmp_seq=3 Destination Host Unreachable\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2050ms\npipe 2\n",
+    "duracao": 3.3347976207733154,
+    "timestamp": "2025-05-06 20:01:33",
+    "raspberry_id": 1
+  },
+  {
+    "online": false,
+    "latencia": null,
+    "raw_output": "Command '['ping', '-c', '3', '192.168.1.155']' timed out after 5 seconds",
+    "duracao": 0,
+    "timestamp": "2025-05-06 20:01:34",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.2,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.202 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.206 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.193 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2059ms\nrtt min/avg/max/mdev = 0.193/0.200/0.206/0.005 ms\n",
+    "duracao": 2.063844919204712,
+    "timestamp": "2025-05-06 20:05:44",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.203,
+    "raw_output": "PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.\n64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.212 ms\n64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.220 ms\n64 bytes from 192.168.1.184: icmp_seq=3 ttl=64 time=0.178 ms\n\n--- 192.168.1.184 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2062ms\nrtt min/avg/max/mdev = 0.178/0.203/0.220/0.018 ms\n",
+    "duracao": 2.067206859588623,
+    "timestamp": "2025-05-06 20:05:45",
+    "raspberry_id": 2
+  },
+  {
+    "online": true,
+    "latencia": 0.195,
+    "raw_output": "PING 192.168.1.155 (192.168.1.155) 56(84) bytes of data.\n64 bytes from 192.168.1.155: icmp_seq=1 ttl=64 time=0.201 ms\n64 bytes from 192.168.1.155: icmp_seq=2 ttl=64 time=0.191 ms\n64 bytes from 192.168.1.155: icmp_seq=3 ttl=64 time=0.193 ms\n\n--- 192.168.1.155 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2084ms\nrtt min/avg/max/mdev = 0.191/0.195/0.201/0.004 ms\n",
+    "duracao": 2.088545322418213,
+    "timestamp": "2025-05-06 20:05:46",
+    "raspberry_id": 3
+  },
+  {
+    "online": true,
+    "latencia": 0.231,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.228 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.255 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.211 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2076ms\nrtt min/avg/max/mdev = 0.211/0.231/0.255/0.018 ms\n",
+    "duracao": 2.0827817916870117,
+    "timestamp": "2025-08-18 17:13:37",
+    "raspberry_id": 1
+  },
+  {
+    "online": true,
+    "latencia": 0.278,
+    "raw_output": "PING 192.168.1.179 (192.168.1.179) 56(84) bytes of data.\n64 bytes from 192.168.1.179: icmp_seq=1 ttl=64 time=0.261 ms\n64 bytes from 192.168.1.179: icmp_seq=2 ttl=64 time=0.274 ms\n64 bytes from 192.168.1.179: icmp_seq=3 ttl=64 time=0.299 ms\n\n--- 192.168.1.179 ping statistics ---\n3 packets transmitted, 3 received, 0% packet loss, time 2079ms\nrtt min/avg/max/mdev = 0.261/0.278/0.299/0.015 ms\n",
+    "duracao": 2.08587646484375,
+    "timestamp": "2025-08-18 17:36:08",
+    "raspberry_id": 1
+  }
+]

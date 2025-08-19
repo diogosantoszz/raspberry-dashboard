@@ -1,0 +1,464 @@
+[
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     2.84 ms   (jitter: 0.52ms, low: 1.82ms, high: 2.86ms)\n\n    Download:   900.33 Mbps (data used: 1.0 GB)                                                   \n                  9.91 ms   (jitter: 6.22ms, low: 3.71ms, high: 237.31ms)\n\n      Upload:    83.15 Mbps (data used: 101.4 MB)                                                   \n                  3.42 ms   (jitter: 7.73ms, low: 1.80ms, high: 417.23ms)\n Packet Loss:     1.1%\n  Result URL: https://www.speedtest.net/result/c/a005963a-bad6-4a68-89e0-86f0ba536090\n",
+    "timestamp": "2025-03-20 15:26:21",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.53 ms   (jitter: 0.37ms, low: 2.06ms, high: 2.81ms)\n\n    Download:   913.28 Mbps (data used: 1.0 GB)                                                   \n                  6.92 ms   (jitter: 0.90ms, low: 3.09ms, high: 12.28ms)\n\n      Upload:    80.40 Mbps (data used: 76.7 MB)                                                   \n                  3.22 ms   (jitter: 9.24ms, low: 2.10ms, high: 212.05ms)\n Packet Loss:     0.6%\n  Result URL: https://www.speedtest.net/result/c/eb72dce4-a337-460c-83f2-baee6ff6a253\n",
+    "timestamp": "2025-03-20 15:29:03",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.67 ms   (jitter: 0.80ms, low: 1.99ms, high: 3.19ms)\n\n    Download:   916.37 Mbps (data used: 1.0 GB)                                                   \n                  7.14 ms   (jitter: 1.01ms, low: 2.12ms, high: 11.50ms)\n\n      Upload:    88.47 Mbps (data used: 65.1 MB)                                                   \n                  3.48 ms   (jitter: 11.84ms, low: 2.12ms, high: 416.90ms)\n Packet Loss:     0.6%\n  Result URL: https://www.speedtest.net/result/c/179f1060-0d43-4d0e-aa47-83ce25771efa\n",
+    "timestamp": "2025-03-20 15:32:46",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.98 ms   (jitter: 0.18ms, low: 2.58ms, high: 3.06ms)\n\n    Download:   866.58 Mbps (data used: 651.3 MB)                                                   \n                  7.89 ms   (jitter: 1.38ms, low: 3.11ms, high: 12.92ms)\n\n      Upload:    95.27 Mbps (data used: 76.8 MB)                                                   \n                  4.19 ms   (jitter: 4.19ms, low: 1.57ms, high: 217.63ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/0b9840c0-30bc-4996-8eaf-1f03de7305b6\n",
+    "timestamp": "2025-03-20 15:33:18",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "erro": "[Errno 2] No such file or directory: 'speedtest-cli'",
+    "timestamp": "2025-03-20 15:47:41",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     1.85 ms   (jitter: 0.65ms, low: 1.33ms, high: 3.01ms)\n\n    Download:   874.80 Mbps (data used: 1.4 GB)                                                   \n                  9.39 ms   (jitter: 13.43ms, low: 2.40ms, high: 235.38ms)\n\n      Upload:   537.62 Mbps (data used: 511.3 MB)                                                   \n                  3.19 ms   (jitter: 0.68ms, low: 0.85ms, high: 7.86ms)\n Packet Loss:     1.6%\n  Result URL: https://www.speedtest.net/result/c/3845083a-4230-4015-acef-85d2556aec2c\n",
+    "timestamp": "2025-03-20 15:48:10",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "erro": "[Errno 2] No such file or directory: 'speedtest-cli'",
+    "timestamp": "2025-03-20 16:41:22",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.35 ms   (jitter: 0.53ms, low: 0.70ms, high: 1.71ms)\n\n    Download:   884.50 Mbps (data used: 842.9 MB)                                                   \n                  8.36 ms   (jitter: 2.35ms, low: 2.00ms, high: 62.00ms)\n\n      Upload:   534.08 Mbps (data used: 744.4 MB)                                                   \n                 59.06 ms   (jitter: 28.30ms, low: 1.67ms, high: 322.26ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/da007fbc-bd59-49db-b8f4-acc5ea8d0201\n",
+    "timestamp": "2025-03-20 17:22:58",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-03-25 11:34:05",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-03-25 11:37:33",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-03-25 11:37:33",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-03-25 11:37:37",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.74 ms   (jitter: 0.16ms, low: 1.47ms, high: 1.99ms)\n\n    Download:   936.37 Mbps (data used: 770.2 MB)                                                   \n                 11.61 ms   (jitter: 0.90ms, low: 2.61ms, high: 15.17ms)\n\n      Upload:   538.60 Mbps (data used: 721.8 MB)                                                   \n                  3.24 ms   (jitter: 12.52ms, low: 0.75ms, high: 223.41ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/f0e47bb3-2b0c-408c-bb0b-97dbe912998e\n",
+    "timestamp": "2025-03-25 11:39:52",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": false,
+    "erro": "[Errno 2] No such file or directory: 'speedtest-cli'",
+    "timestamp": "2025-03-25 11:47:11",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "[Errno 2] No such file or directory: 'speedtest-cli'",
+    "timestamp": "2025-03-25 11:48:30",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "[Errno 2] No such file or directory: 'speedtest-cli'",
+    "timestamp": "2025-03-25 11:48:31",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "speedtest: Unrecognized option: --json\n",
+    "timestamp": "2025-03-25 11:49:34",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "speedtest: Unrecognized option: --json\n",
+    "timestamp": "2025-03-25 11:49:34",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "speedtest: Unrecognized option: --json\n",
+    "timestamp": "2025-03-25 11:49:35",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "speedtest: Unrecognized option: --json\n",
+    "timestamp": "2025-03-25 11:49:36",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "speedtest: Unrecognized option: --json\n",
+    "timestamp": "2025-03-25 11:49:37",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "speedtest: Unrecognized option: --json\n",
+    "timestamp": "2025-03-25 11:49:40",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     1.92 ms   (jitter: 0.35ms, low: 1.23ms, high: 2.25ms)\n\n    Download:   932.95 Mbps (data used: 789.3 MB)                                                   \n                  9.04 ms   (jitter: 13.76ms, low: 3.57ms, high: 235.34ms)\n\n      Upload:   541.42 Mbps (data used: 686.4 MB)                                                   \n                 69.16 ms   (jitter: 27.57ms, low: 1.29ms, high: 249.81ms)\n Packet Loss:     2.2%\n  Result URL: https://www.speedtest.net/result/c/2337892d-207f-487c-89cf-91af265ab1f8\n",
+    "timestamp": "2025-03-25 11:50:38",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": false,
+    "erro": "Expecting value: line 2 column 4 (char 4)",
+    "timestamp": "2025-03-25 11:52:07",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": false,
+    "erro": "Expecting value: line 2 column 4 (char 4)",
+    "timestamp": "2025-03-25 11:52:34",
+    "raspberry_id": 0
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.30 ms   (jitter: 0.50ms, low: 0.59ms, high: 1.98ms)\n\n    Download:   904.22 Mbps (data used: 670.2 MB)                                                   \n                  6.95 ms   (jitter: 1.22ms, low: 0.65ms, high: 12.25ms)\n\n      Upload:   537.12 Mbps (data used: 720.4 MB)                                                   \n                 89.21 ms   (jitter: 35.63ms, low: 1.72ms, high: 435.83ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/85c6e026-49aa-4c25-9eb8-7b601a3687f2\n",
+    "timestamp": "2025-03-25 11:52:57",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-03-25 12:28:54",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-03-25 12:28:56",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     0.98 ms   (jitter: 0.84ms, low: 0.88ms, high: 2.45ms)\n\n    Download:   514.36 Mbps (data used: 420.3 MB)                                                   \n                  8.71 ms   (jitter: 0.81ms, low: 2.59ms, high: 18.86ms)\n\n      Upload:   536.24 Mbps (data used: 719.7 MB)                                                   \n                  3.16 ms   (jitter: 14.16ms, low: 0.69ms, high: 214.31ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/24f83569-719e-4d95-a619-9158195ff193\n",
+    "timestamp": "2025-03-25 12:30:24",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.07 ms   (jitter: 0.50ms, low: 0.79ms, high: 1.87ms)\n\n    Download:   919.17 Mbps (data used: 449.0 MB)                                                   \n                  6.48 ms   (jitter: 0.86ms, low: 1.72ms, high: 10.77ms)\n\n      Upload:   535.48 Mbps (data used: 709.6 MB)                                                   \n                  2.26 ms   (jitter: 2.46ms, low: 0.70ms, high: 208.82ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/0ae69ea2-c845-4271-a577-eb59430039c8\n",
+    "timestamp": "2025-03-26 11:56:06",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.58 ms   (jitter: 0.61ms, low: 0.73ms, high: 2.00ms)\n\n    Download:   515.29 Mbps (data used: 232.6 MB)                                                   \n                  1.93 ms   (jitter: 0.59ms, low: 0.86ms, high: 4.64ms)\n\n      Upload:   426.25 Mbps (data used: 525.6 MB)                                                   \n                  3.81 ms   (jitter: 15.76ms, low: 0.67ms, high: 221.82ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/a3438a55-88b3-463d-ab04-65362cd0b2d3\n",
+    "timestamp": "2025-03-26 12:06:37",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.79 ms   (jitter: 0.58ms, low: 1.63ms, high: 2.87ms)\n\n    Download:   916.25 Mbps (data used: 866.8 MB)                                                   \n                  7.03 ms   (jitter: 0.95ms, low: 1.41ms, high: 9.85ms)\n\n      Upload:   539.85 Mbps (data used: 701.1 MB)                                                   \n                 85.05 ms   (jitter: 35.58ms, low: 1.55ms, high: 406.24ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/0c85da79-4d57-4488-8498-038a607fcf4b\n",
+    "timestamp": "2025-03-26 12:07:14",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Porto (id: 47363)\n         ISP: Vodafone Portugal\nIdle Latency:     2.32 ms   (jitter: 0.75ms, low: 1.51ms, high: 3.24ms)\n\n    Download:   917.54 Mbps (data used: 854.6 MB)                                                   \n                  9.84 ms   (jitter: 10.13ms, low: 3.04ms, high: 243.56ms)\n\n      Upload:   538.73 Mbps (data used: 535.3 MB)                                                   \n                 76.47 ms   (jitter: 27.76ms, low: 1.77ms, high: 655.73ms)\n Packet Loss:     0.7%\n  Result URL: https://www.speedtest.net/result/c/676fc1ed-e159-4852-ab5d-75888a84c978\n",
+    "timestamp": "2025-03-26 12:07:42",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: NOS - Porto (id: 10363)\n         ISP: Vodafone Portugal\nIdle Latency:     6.94 ms   (jitter: 0.22ms, low: 6.51ms, high: 7.13ms)\n\n    Download:   916.67 Mbps (data used: 1.1 GB)                                                   \n                 11.00 ms   (jitter: 1.48ms, low: 6.18ms, high: 16.09ms)\n\n      Upload:   549.28 Mbps (data used: 352.7 MB)                                                   \n                  8.06 ms   (jitter: 0.57ms, low: 5.21ms, high: 11.27ms)\n Packet Loss:     0.5%\n  Result URL: https://www.speedtest.net/result/c/1c5c8369-18c3-4d34-b2e9-a732681380f7\n",
+    "timestamp": "2025-03-26 12:14:53",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     2.74 ms   (jitter: 0.43ms, low: 2.10ms, high: 3.19ms)\n\n    Download:   909.03 Mbps (data used: 1.1 GB)                                                   \n                  9.17 ms   (jitter: 6.22ms, low: 2.29ms, high: 233.37ms)\n\n      Upload:   538.09 Mbps (data used: 631.4 MB)                                                   \n                  2.87 ms   (jitter: 0.66ms, low: 0.90ms, high: 7.23ms)\n Packet Loss:     0.5%\n  Result URL: https://www.speedtest.net/result/c/b9f5903d-d3d3-4d6e-9085-6f6e6f6c2014\n",
+    "timestamp": "2025-03-26 12:16:34",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.40 ms   (jitter: 1.17ms, low: 0.65ms, high: 3.08ms)\n\n    Download:   887.93 Mbps (data used: 424.1 MB)                                                   \n                  7.75 ms   (jitter: 1.04ms, low: 2.36ms, high: 10.75ms)\n\n      Upload:   538.07 Mbps (data used: 712.7 MB)                                                   \n                  2.24 ms   (jitter: 0.69ms, low: 0.77ms, high: 7.32ms)\n Packet Loss:     1.3%\n  Result URL: https://www.speedtest.net/result/c/619421cb-73da-4efd-9dc2-34e15710396b\n",
+    "timestamp": "2025-03-26 12:17:39",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.83 ms   (jitter: 0.46ms, low: 2.05ms, high: 3.24ms)\n\n    Download:   922.56 Mbps (data used: 438.9 MB)                                                   \n                  6.62 ms   (jitter: 1.46ms, low: 2.40ms, high: 10.76ms)\n\n      Upload:   527.44 Mbps (data used: 727.7 MB)                                                   \n                110.67 ms   (jitter: 42.47ms, low: 1.73ms, high: 1690.90ms)\n Packet Loss:     1.3%\n  Result URL: https://www.speedtest.net/result/c/9debd284-bd41-465d-ba06-b3d7af542774\n",
+    "timestamp": "2025-03-26 12:18:07",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.31 ms   (jitter: 0.44ms, low: 1.08ms, high: 1.79ms)\n\n    Download:   929.30 Mbps (data used: 696.7 MB)                                                   \n                  5.10 ms   (jitter: 0.49ms, low: 2.25ms, high: 9.41ms)\n\n      Upload:   537.49 Mbps (data used: 720.0 MB)                                                   \n                  3.04 ms   (jitter: 8.54ms, low: 0.79ms, high: 212.28ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/c48d7cc5-efec-4d4d-8a46-30d8ad9d9853\n",
+    "timestamp": "2025-03-26 12:19:58",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.91 ms   (jitter: 0.16ms, low: 2.64ms, high: 3.03ms)\n\n    Download:   938.53 Mbps (data used: 953.4 MB)                                                   \n                  9.94 ms   (jitter: 1.03ms, low: 2.72ms, high: 17.66ms)\n\n      Upload:   117.64 Mbps (data used: 57.3 MB)                                                   \n                171.21 ms   (jitter: 48.98ms, low: 5.19ms, high: 382.23ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/5257e63d-9152-485c-b44b-367994461b34\n",
+    "timestamp": "2025-03-29 10:48:44",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.73 ms   (jitter: 0.37ms, low: 2.10ms, high: 2.84ms)\n\n    Download:   942.41 Mbps (data used: 436.1 MB)                                                   \n                  7.34 ms   (jitter: 0.61ms, low: 0.90ms, high: 9.39ms)\n\n      Upload:   539.55 Mbps (data used: 716.3 MB)                                                   \n                  2.28 ms   (jitter: 2.62ms, low: 0.74ms, high: 208.73ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/783dc64b-5573-416b-a5fe-6657c2ae7e31\n",
+    "timestamp": "2025-03-29 10:49:52",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.79 ms   (jitter: 0.18ms, low: 2.46ms, high: 2.87ms)\n\n    Download:   938.75 Mbps (data used: 458.3 MB)                                                   \n                 12.08 ms   (jitter: 0.84ms, low: 2.90ms, high: 15.73ms)\n\n      Upload:   541.88 Mbps (data used: 702.2 MB)                                                   \n                  3.00 ms   (jitter: 12.56ms, low: 0.69ms, high: 213.14ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/0de18cdd-08cf-4bb7-977a-157b6fdfd999\n",
+    "timestamp": "2025-03-29 10:50:55",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.84 ms   (jitter: 0.21ms, low: 2.57ms, high: 3.04ms)\n\n    Download:   939.38 Mbps (data used: 458.8 MB)                                                   \n                  6.50 ms   (jitter: 0.68ms, low: 1.25ms, high: 9.24ms)\n\n      Upload:   541.72 Mbps (data used: 703.5 MB)                                                   \n                  2.58 ms   (jitter: 6.60ms, low: 0.74ms, high: 209.47ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/6e6dbb19-6489-4358-b782-204244359f8c\n",
+    "timestamp": "2025-03-29 10:52:33",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.71 ms   (jitter: 0.29ms, low: 0.94ms, high: 1.89ms)\n\n    Download:   899.92 Mbps (data used: 624.5 MB)                                                   \n                  7.59 ms   (jitter: 0.95ms, low: 1.96ms, high: 11.33ms)\n\n      Upload:   536.79 Mbps (data used: 724.7 MB)                                                   \n                110.13 ms   (jitter: 42.16ms, low: 1.60ms, high: 574.21ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/6c8d906b-2960-4de2-a968-da99a24350a8\n",
+    "timestamp": "2025-04-02 12:16:57",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Porto (id: 47363)\n         ISP: Vodafone Portugal\nIdle Latency:     2.82 ms   (jitter: 0.25ms, low: 2.52ms, high: 2.98ms)\n\n    Download:   920.37 Mbps (data used: 1.2 GB)                                                   \n                  9.46 ms   (jitter: 13.35ms, low: 2.95ms, high: 244.43ms)\n\n      Upload:   540.31 Mbps (data used: 609.1 MB)                                                   \n                  3.22 ms   (jitter: 7.45ms, low: 1.29ms, high: 415.49ms)\n Packet Loss:     1.9%\n  Result URL: https://www.speedtest.net/result/c/db5e10cc-d3b7-47d2-835e-ad32d7a01710\n",
+    "timestamp": "2025-04-02 12:17:26",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.37 ms   (jitter: 0.39ms, low: 0.79ms, high: 1.76ms)\n\n    Download:   926.66 Mbps (data used: 452.7 MB)                                                   \n                  8.94 ms   (jitter: 1.08ms, low: 2.85ms, high: 13.99ms)\n\n      Upload:   536.90 Mbps (data used: 712.4 MB)                                                   \n                  2.40 ms   (jitter: 4.53ms, low: 0.82ms, high: 213.38ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/53536b72-94f0-45a4-a0c4-07457be003a1\n",
+    "timestamp": "2025-04-02 12:17:57",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: NOS - Porto (id: 10363)\n         ISP: Vodafone Portugal\nIdle Latency:     6.87 ms   (jitter: 0.11ms, low: 6.74ms, high: 6.95ms)\n\n    Download:   940.84 Mbps (data used: 762.2 MB)                                                   \n                 13.20 ms   (jitter: 0.70ms, low: 7.29ms, high: 15.51ms)\n\n      Upload:   538.40 Mbps (data used: 721.0 MB)                                                   \n                 23.51 ms   (jitter: 5.33ms, low: 5.58ms, high: 237.36ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/040f1b6a-cc59-4bb8-9b33-40ffdab65eac\n",
+    "timestamp": "2025-04-05 08:22:13",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Porto (id: 47363)\n         ISP: Vodafone Portugal\nIdle Latency:     1.98 ms   (jitter: 0.40ms, low: 1.38ms, high: 2.37ms)\n\n    Download:   936.22 Mbps (data used: 457.3 MB)                                                   \n                  8.09 ms   (jitter: 1.09ms, low: 1.30ms, high: 10.97ms)\n\n      Upload:   547.10 Mbps (data used: 571.6 MB)                                                   \n                  3.74 ms   (jitter: 5.52ms, low: 1.28ms, high: 213.25ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/2a27da67-57f7-4408-ae2b-522ce8de85ab\n",
+    "timestamp": "2025-04-05 08:22:34",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     2.49 ms   (jitter: 0.02ms, low: 2.46ms, high: 2.51ms)\n\n    Download:   941.19 Mbps (data used: 447.8 MB)                                                   \n                  8.07 ms   (jitter: 0.62ms, low: 2.44ms, high: 9.08ms)\n\n      Upload:   542.82 Mbps (data used: 407.1 MB)                                                   \n                215.99 ms   (jitter: 57.68ms, low: 4.18ms, high: 434.68ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/ad805d3b-edad-462b-aca9-2dc307c7deba\n",
+    "timestamp": "2025-04-05 08:22:51",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: MEO\nIdle Latency:     2.90 ms   (jitter: 0.10ms, low: 2.74ms, high: 3.01ms)\n\n    Download:   524.21 Mbps (data used: 263.2 MB)                                                   \n                  9.67 ms   (jitter: 0.49ms, low: 4.72ms, high: 11.07ms)\n\n      Upload:   120.46 Mbps (data used: 54.4 MB)                                                   \n                161.21 ms   (jitter: 47.77ms, low: 3.26ms, high: 356.05ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/6d923ed7-bcb7-41fb-b821-a8d686b2aabf\n",
+    "timestamp": "2025-04-12 11:03:40",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: MEO\nIdle Latency:     2.11 ms   (jitter: 0.42ms, low: 1.73ms, high: 2.37ms)\n\n    Download:   938.10 Mbps (data used: 469.8 MB)                                                   \n                 46.78 ms   (jitter: 44.24ms, low: 1.56ms, high: 241.45ms)\n\n      Upload:   426.89 Mbps (data used: 532.2 MB)                                                   \n                  3.35 ms   (jitter: 11.14ms, low: 0.90ms, high: 213.15ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/b2fbe0dd-1ef7-450f-a084-966eba666974\n",
+    "timestamp": "2025-04-12 11:04:06",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.08 ms   (jitter: 0.11ms, low: 1.98ms, high: 2.24ms)\n\n    Download:   939.27 Mbps (data used: 435.4 MB)                                                   \n                  3.66 ms   (jitter: 0.33ms, low: 2.62ms, high: 4.62ms)\n\n      Upload:   427.90 Mbps (data used: 538.2 MB)                                                   \n                  3.23 ms   (jitter: 11.39ms, low: 0.84ms, high: 220.91ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/f0fdef0e-c936-4c4c-8adc-28cd67817ab1\n",
+    "timestamp": "2025-04-12 11:04:44",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: MEO\nIdle Latency:     2.78 ms   (jitter: 0.12ms, low: 2.64ms, high: 2.84ms)\n\n    Download:   522.68 Mbps (data used: 236.7 MB)                                                   \n                  9.71 ms   (jitter: 6.66ms, low: 2.69ms, high: 230.04ms)\n\n      Upload:   120.49 Mbps (data used: 54.4 MB)                                                   \n                145.73 ms   (jitter: 43.01ms, low: 4.65ms, high: 322.80ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/aeff78b3-ed46-427d-bae4-e1c0bdda969f\n",
+    "timestamp": "2025-04-12 11:05:04",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: NOS - Porto (id: 10363)\n         ISP: Vodafone Portugal\nIdle Latency:     8.56 ms   (jitter: 0.25ms, low: 8.36ms, high: 8.82ms)\n\n    Download:   941.08 Mbps (data used: 682.4 MB)                                                   \n                  4.07 ms   (jitter: 0.55ms, low: 2.14ms, high: 5.23ms)\n\n      Upload:   427.25 Mbps (data used: 526.5 MB)                                                   \n                  8.97 ms   (jitter: 11.95ms, low: 7.01ms, high: 237.11ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/846fc95a-3284-4344-8864-20cb6fc51faf\n",
+    "timestamp": "2025-04-19 12:40:28",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.69 ms   (jitter: 0.64ms, low: 1.36ms, high: 2.14ms)\n\n    Download:    93.71 Mbps (data used: 43.4 MB)                                                   \n                 39.70 ms   (jitter: 1.35ms, low: 1.04ms, high: 45.50ms)\n\n      Upload:    93.87 Mbps (data used: 42.4 MB)                                                   \n                  9.74 ms   (jitter: 7.85ms, low: 2.78ms, high: 227.25ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/64736889-56f1-4885-9f3f-71b2409b5ee3\n",
+    "timestamp": "2025-04-19 12:40:45",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: NOS - Porto (id: 10363)\n         ISP: Vodafone Portugal\nIdle Latency:     2.29 ms   (jitter: 0.23ms, low: 1.89ms, high: 2.57ms)\n\n    Download:   938.89 Mbps (data used: 458.6 MB)                                                   \n                  9.47 ms   (jitter: 0.64ms, low: 6.82ms, high: 10.60ms)\n\n      Upload:   427.28 Mbps (data used: 516.0 MB)                                                   \n                  8.53 ms   (jitter: 0.68ms, low: 6.78ms, high: 12.80ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/ce07ab37-5498-41db-812e-a271de396b5e\n",
+    "timestamp": "2025-04-19 12:41:06",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.96 ms   (jitter: 0.41ms, low: 1.53ms, high: 2.48ms)\n\n    Download:    94.05 Mbps (data used: 42.3 MB)                                                   \n                 40.92 ms   (jitter: 8.52ms, low: 1.57ms, high: 307.95ms)\n\n      Upload:    93.92 Mbps (data used: 42.4 MB)                                                   \n                  9.71 ms   (jitter: 1.62ms, low: 4.52ms, high: 11.64ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/afaada65-9e65-4c03-9e69-4cbd0320d7cb\n",
+    "timestamp": "2025-04-19 12:41:24",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.86 ms   (jitter: 0.47ms, low: 0.81ms, high: 2.45ms)\n\n    Download:   932.88 Mbps (data used: 455.1 MB)                                                   \n                  3.62 ms   (jitter: 0.46ms, low: 1.67ms, high: 5.22ms)\n\n      Upload:   425.69 Mbps (data used: 525.9 MB)                                                   \n                  2.97 ms   (jitter: 5.08ms, low: 0.83ms, high: 212.69ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/c7bf2cb0-8911-4806-96bf-c845c2efca1b\n",
+    "timestamp": "2025-04-19 14:09:01",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     3.16 ms   (jitter: 0.71ms, low: 1.96ms, high: 3.38ms)\n\n    Download:   941.39 Mbps (data used: 727.7 MB)                                                   \n                  8.17 ms   (jitter: 22.30ms, low: 4.70ms, high: 751.79ms)\n\n      Upload:   426.83 Mbps (data used: 526.6 MB)                                                   \n                  3.13 ms   (jitter: 5.07ms, low: 0.94ms, high: 215.35ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/816b0406-0022-472d-b9aa-d38c0d85ea18\n",
+    "timestamp": "2025-04-25 00:21:15",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: MEO\nIdle Latency:     1.90 ms   (jitter: 0.32ms, low: 1.54ms, high: 2.49ms)\n\n    Download:   941.60 Mbps (data used: 447.4 MB)                                                   \n                  3.74 ms   (jitter: 0.44ms, low: 2.87ms, high: 5.63ms)\n\n      Upload:   426.76 Mbps (data used: 526.3 MB)                                                   \n                  2.79 ms   (jitter: 3.03ms, low: 0.85ms, high: 209.98ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/d191e729-49ab-45b2-ad7e-a519ca78e8a0\n",
+    "timestamp": "2025-04-25 00:21:37",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: MEO\nIdle Latency:     2.19 ms   (jitter: 0.36ms, low: 1.60ms, high: 2.40ms)\n\n    Download:   935.59 Mbps (data used: 667.6 MB)                                                   \n                 16.26 ms   (jitter: 30.08ms, low: 5.69ms, high: 240.63ms)\n\n      Upload:   426.86 Mbps (data used: 526.8 MB)                                                   \n                  3.58 ms   (jitter: 11.28ms, low: 1.32ms, high: 212.19ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/745388ce-1851-4785-b63d-960ff5c877e7\n",
+    "timestamp": "2025-04-25 00:22:01",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: MEO\nIdle Latency:     2.50 ms   (jitter: 0.88ms, low: 1.94ms, high: 3.37ms)\n\n    Download:   511.03 Mbps (data used: 249.7 MB)                                                   \n                  9.68 ms   (jitter: 6.22ms, low: 4.96ms, high: 233.36ms)\n\n      Upload:   118.52 Mbps (data used: 56.2 MB)                                                   \n                155.23 ms   (jitter: 45.52ms, low: 3.08ms, high: 365.65ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/5ffabd8c-0ebd-42dd-bfc8-f2431fc825a4\n",
+    "timestamp": "2025-04-26 14:50:31",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.51 ms   (jitter: 1.38ms, low: 0.96ms, high: 3.33ms)\n\n    Download:   930.24 Mbps (data used: 466.3 MB)                                                   \n                  3.66 ms   (jitter: 0.38ms, low: 1.08ms, high: 4.33ms)\n\n      Upload:   425.43 Mbps (data used: 545.9 MB)                                                   \n                  3.20 ms   (jitter: 13.24ms, low: 0.84ms, high: 222.08ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/b81f56ba-2aad-44fd-9394-d86598613e8c\n",
+    "timestamp": "2025-04-26 14:50:53",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: MEO\nIdle Latency:     3.06 ms   (jitter: 0.39ms, low: 2.74ms, high: 3.66ms)\n\n    Download:   933.26 Mbps (data used: 466.7 MB)                                                   \n                 11.15 ms   (jitter: 28.11ms, low: 4.15ms, high: 235.40ms)\n\n      Upload:   424.98 Mbps (data used: 540.0 MB)                                                   \n                  3.96 ms   (jitter: 8.99ms, low: 1.74ms, high: 416.63ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/bc58b6c3-2847-45ce-a8e1-101aed48c53b\n",
+    "timestamp": "2025-04-26 14:51:15",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: MEO\nIdle Latency:     2.25 ms   (jitter: 0.27ms, low: 1.54ms, high: 2.46ms)\n\n    Download:   930.27 Mbps (data used: 465.6 MB)                                                   \n                  3.74 ms   (jitter: 0.32ms, low: 2.59ms, high: 4.38ms)\n\n      Upload:   427.30 Mbps (data used: 527.2 MB)                                                   \n                  3.20 ms   (jitter: 7.33ms, low: 0.93ms, high: 416.36ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/9b19ef85-81f5-49e8-a894-fa91b6f720c9\n",
+    "timestamp": "2025-05-03 13:50:14",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Vodafone Portugal - Vila Nova de Gaia (id: 47077)\n         ISP: Vodafone Portugal\nIdle Latency:     2.09 ms   (jitter: 0.80ms, low: 1.32ms, high: 2.52ms)\n\n    Download:   932.41 Mbps (data used: 721.6 MB)                                                   \n                  7.94 ms   (jitter: 14.69ms, low: 5.58ms, high: 233.23ms)\n\n      Upload:   427.39 Mbps (data used: 526.8 MB)                                                   \n                  3.02 ms   (jitter: 4.97ms, low: 1.04ms, high: 213.01ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/1b106f20-d5fe-4bf0-a11f-f0d291103d09\n",
+    "timestamp": "2025-05-03 13:50:36",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Cloudity - Vila Nova de Famalic\u00e3o (id: 57379)\n         ISP: MEO\nIdle Latency:     2.18 ms   (jitter: 0.71ms, low: 1.47ms, high: 2.73ms)\n\n    Download:   931.79 Mbps (data used: 454.6 MB)                                                   \n                  3.61 ms   (jitter: 0.41ms, low: 2.63ms, high: 4.44ms)\n\n      Upload:   426.47 Mbps (data used: 536.6 MB)                                                   \n                  3.66 ms   (jitter: 5.00ms, low: 1.66ms, high: 217.63ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/085cb961-82f5-47f6-a5e7-a2a8bd8d6f6c\n",
+    "timestamp": "2025-05-03 13:50:56",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: MEO\nIdle Latency:     2.12 ms   (jitter: 0.81ms, low: 1.11ms, high: 2.70ms)\n\n    Download:   934.61 Mbps (data used: 457.1 MB)                                                   \n                  3.55 ms   (jitter: 0.32ms, low: 2.18ms, high: 4.42ms)\n\n      Upload:   430.83 Mbps (data used: 536.9 MB)                                                   \n                  4.14 ms   (jitter: 15.58ms, low: 0.61ms, high: 418.25ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/ab9e5eda-996a-4e65-ba2d-2ca5713542a5\n",
+    "timestamp": "2025-05-03 17:29:43",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: PQ.Hosting - Riba de Ave (id: 57814)\n         ISP: MEO\nIdle Latency:     3.59 ms   (jitter: 0.35ms, low: 3.25ms, high: 3.90ms)\n\n    Download:   898.56 Mbps (data used: 439.0 MB)                                                   \n                  4.56 ms   (jitter: 0.96ms, low: 2.32ms, high: 15.81ms)\n\n      Upload:   427.67 Mbps (data used: 510.5 MB)                                                   \n                  3.95 ms   (jitter: 5.91ms, low: 1.24ms, high: 213.63ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/dd73cfe0-82a1-47f4-a5c7-a8f7fc20303f\n",
+    "timestamp": "2025-05-06 20:06:11",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Final Space Network - Porto (id: 54454)\n         ISP: MEO\nIdle Latency:     3.43 ms   (jitter: 0.14ms, low: 3.29ms, high: 3.59ms)\n\n    Download:   928.99 Mbps (data used: 442.1 MB)                                                   \n                  3.86 ms   (jitter: 0.53ms, low: 2.66ms, high: 7.22ms)\n\n      Upload:   426.99 Mbps (data used: 526.9 MB)                                                   \n                  3.39 ms   (jitter: 7.09ms, low: 0.93ms, high: 213.15ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/5c6726d9-3868-4c21-8d4d-8969abf64bb3\n",
+    "timestamp": "2025-05-10 13:01:32",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: Cloudity - Vila Nova de Famalic\u00e3o (id: 57379)\n         ISP: Vodafone Portugal\nIdle Latency:     3.38 ms   (jitter: 0.64ms, low: 2.89ms, high: 4.01ms)\n\n    Download:   927.81 Mbps (data used: 418.1 MB)                                                   \n                  4.87 ms   (jitter: 0.52ms, low: 3.71ms, high: 7.48ms)\n\n      Upload:   427.17 Mbps (data used: 537.6 MB)                                                   \n                  3.18 ms   (jitter: 6.94ms, low: 1.04ms, high: 215.19ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/8fa3b6e1-e704-4cdb-8514-32aae2fead50\n",
+    "timestamp": "2025-05-10 13:01:53",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.75 ms   (jitter: 0.49ms, low: 1.45ms, high: 2.28ms)\n\n    Download:   926.86 Mbps (data used: 452.8 MB)                                                   \n                  3.83 ms   (jitter: 0.39ms, low: 2.36ms, high: 4.75ms)\n\n      Upload:   427.33 Mbps (data used: 532.4 MB)                                                   \n                  3.41 ms   (jitter: 9.29ms, low: 0.77ms, high: 213.31ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/2632598d-aacb-4752-adfa-dee6120e5f00\n",
+    "timestamp": "2025-05-10 13:02:19",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: MEO\nIdle Latency:     1.92 ms   (jitter: 0.44ms, low: 1.34ms, high: 2.86ms)\n\n    Download:   881.72 Mbps (data used: 467.0 MB)                                                   \n                  3.96 ms   (jitter: 0.61ms, low: 2.06ms, high: 7.79ms)\n\n      Upload:   426.34 Mbps (data used: 524.3 MB)                                                   \n                  3.85 ms   (jitter: 7.28ms, low: 1.03ms, high: 213.20ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/1f0cdd75-5d46-4c86-a5e8-3e5695678098\n",
+    "timestamp": "2025-05-17 14:37:08",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     2.23 ms   (jitter: 1.19ms, low: 0.81ms, high: 2.98ms)\n\n    Download:   834.52 Mbps (data used: 604.3 MB)                                                   \n                  4.40 ms   (jitter: 4.93ms, low: 1.47ms, high: 207.50ms)\n\n      Upload:   425.62 Mbps (data used: 519.8 MB)                                                   \n                  3.68 ms   (jitter: 9.63ms, low: 1.09ms, high: 219.00ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/bf5732a4-3705-4fca-8be3-eb5c18c99aeb\n",
+    "timestamp": "2025-05-17 14:37:29",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: Vodafone Portugal\nIdle Latency:     1.82 ms   (jitter: 0.31ms, low: 1.63ms, high: 2.50ms)\n\n    Download:   930.15 Mbps (data used: 430.4 MB)                                                   \n                  3.84 ms   (jitter: 5.78ms, low: 2.45ms, high: 205.91ms)\n\n      Upload:   400.18 Mbps (data used: 665.0 MB)                                                   \n                  4.06 ms   (jitter: 18.82ms, low: 0.86ms, high: 418.27ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/c9b4decd-1da5-4324-b841-a68b117411e9\n",
+    "timestamp": "2025-05-25 08:45:44",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: PQ.Hosting - Riba de Ave (id: 57814)\n         ISP: MEO\nIdle Latency:     4.23 ms   (jitter: 105.43ms, low: 3.93ms, high: 215.16ms)\n\n    Download:   840.26 Mbps (data used: 410.6 MB)                                                   \n                  5.52 ms   (jitter: 7.35ms, low: 3.99ms, high: 222.56ms)\n\n      Upload:   341.16 Mbps (data used: 575.1 MB)                                                   \n                  3.35 ms   (jitter: 16.34ms, low: 1.40ms, high: 848.59ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/debdb774-2ceb-4ff2-97b5-a548c3db4605\n",
+    "timestamp": "2025-05-25 08:45:53",
+    "raspberry_id": 2
+  },
+  {
+    "sucesso": true,
+    "resultado": "\n   Speedtest by Ookla\n\n      Server: MEO - Gaia (id: 30945)\n         ISP: MEO\nIdle Latency:     2.34 ms   (jitter: 0.49ms, low: 1.58ms, high: 2.48ms)\n\n    Download:   928.21 Mbps (data used: 453.5 MB)                                                   \n                  3.62 ms   (jitter: 5.61ms, low: 2.72ms, high: 211.07ms)\n\n      Upload:   427.67 Mbps (data used: 537.6 MB)                                                   \n                  3.26 ms   (jitter: 9.15ms, low: 0.86ms, high: 210.13ms)\n Packet Loss:     0.0%\n  Result URL: https://www.speedtest.net/result/c/18b25b85-259d-4fd1-a8bd-e893ad83ca3f\n",
+    "timestamp": "2025-05-25 08:46:14",
+    "raspberry_id": 3
+  },
+  {
+    "sucesso": false,
+    "erro": "Status code: 500",
+    "timestamp": "2025-08-18 17:13:45",
+    "raspberry_id": 1
+  }
+]

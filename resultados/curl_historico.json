@@ -1,0 +1,167 @@
+[
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.013659238815307617,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 15:25:57 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 15:25:57",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.005600690841674805,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 16:11:13 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 16:11:13",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.003756284713745117,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 16:11:15 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 16:11:15",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.005120277404785156,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 16:11:16 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 16:11:16",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.0062177181243896484,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 16:39:07 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 16:39:07",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.004747867584228516,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 17:25:05 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 17:25:05",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.003664255142211914,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 17:25:06 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 17:25:06",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.005085945129394531,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Thu, 20 Mar 2025 17:25:08 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-03-20 17:25:08",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.009714841842651367,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Sat, 03 May 2025 12:49:55 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-05-03 13:49:55",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.006247758865356445,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Mon, 18 Aug 2025 16:13:42 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-08-18 17:13:42",
+    "raspberry_id": 1
+  },
+  {
+    "sucesso": false,
+    "status_code": 404,
+    "tempo_resposta": 0.006800413131713867,
+    "tamanho_resposta": 207,
+    "headers": {
+      "Server": "Werkzeug/2.2.2 Python/3.11.2",
+      "Date": "Mon, 18 Aug 2025 16:36:36 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Length": "207",
+      "Connection": "close"
+    },
+    "timestamp": "2025-08-18 17:36:36",
+    "raspberry_id": 1
+  }
+]
